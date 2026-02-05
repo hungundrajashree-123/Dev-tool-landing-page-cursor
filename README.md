@@ -7,7 +7,8 @@ https://github.com/user-attachments/files/25090074/cursor.html
 
 Here is the screenshot of final output-
 [cursor.html]
-https://github.com/user-attachments/files/25090044/cursor.html
+
+<img width="1855" height="8728" alt="Screenshot 2026-02-05 at 13-16-58 Cursor" src="https://github.com/user-attachments/assets/cdd9ac13-b7c1-4d93-bb7a-a82d12af693a" />
 
 
 
